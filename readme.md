@@ -4,7 +4,10 @@ A package for print pdf files from default printer.
 
 How to run this API 
 
+```
 node printOperation.js
+
+```
 
 After running this command above both pdf files are printed by your defualt printer connected to your system.
 
